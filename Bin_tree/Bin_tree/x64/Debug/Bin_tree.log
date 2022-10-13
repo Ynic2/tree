@@ -1,0 +1,3 @@
+﻿  Bin_tree.cpp
+C:\Users\ynicp\source\repos\Bin_tree\Bin_tree\Bin_tree.cpp(50,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Bin_tree.vcxproj -> C:\Users\ynicp\source\repos\Bin_tree\x64\Debug\Bin_tree.exe
